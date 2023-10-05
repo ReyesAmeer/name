@@ -4,7 +4,6 @@ Quixote is a library for testing CSS. It's fast—over 100 tests/second—and ha
 
  Quixote is unique for its ability to test how elements relate to each other. For example, you can test if one element is below another element, or how an element compares to the browser's viewport.
 
-**Example test:**
 
 ```javascript
 // 'frame' is the Quixote test frame. See below for complete examples.
