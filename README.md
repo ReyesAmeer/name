@@ -1,4 +1,4 @@
-# Quixote - CSS Unit and Integration Testing
+# Quixote - CSS Unit
 
 Quixote is a library for testing CSS. It's fast—over 100 tests/second—and has a powerful API. You can use it for unit testing (test your CSS files directly) or integration testing (test against a real server). Either way, your tests check how HTML elements are actually rendered by the browser.
 
